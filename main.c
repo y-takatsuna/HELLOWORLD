@@ -10,7 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
-    printf("We are Lab. members!\n");
+    printf("Good,Evening!\n");
+    printf("We are Labo members!\n");
     return 0;
 }
