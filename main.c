@@ -13,5 +13,6 @@ int main(int argc, const char * argv[]) {
     printf("Good,Evening!\n");
     printf("We are Labo members!\n");
     printf("２０１７０３０３\n");
+    printf("中原です\n");
     return 0;
 }
