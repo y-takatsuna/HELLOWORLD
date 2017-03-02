@@ -12,6 +12,6 @@ int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Good,Evening!\n");
     printf("We are Labo members!\n");
-    printf("２０１７０３０２\n");
+    printf("２０１７０３０３\n");
     return 0;
 }
