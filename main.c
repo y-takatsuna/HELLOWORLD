@@ -15,5 +15,5 @@ int main(int argc, const char * argv[]) {
     printf("２０１７０３０３\n");
     printf("中原ですが何か\n");
 
-    return 0;
+    return 1;
 }
