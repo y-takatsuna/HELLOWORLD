@@ -14,6 +14,7 @@ int main(int argc, const char * argv[]) {
     printf("We are Labo members!\n");
     printf("２０１７０３０３\n");
     printf("中原ですが何か\n");
+    printf("高綱ですが何か\n");
 
     return 0;
 }
